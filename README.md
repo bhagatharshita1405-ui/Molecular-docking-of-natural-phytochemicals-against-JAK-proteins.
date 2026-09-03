@@ -1,0 +1,2 @@
+# Molecular-docking-of-natural-phytochemicals-against-JAK-proteins.
+This thesis revolves around the idea of inhibiting JAK/STAT proteins in inflammatory diseases such as Atopic Dermatitis where, this pathway plays a crucial role. I have used bioinformatic tools and software for virtual screening (PyRx, BIOVIA Studio), Molecular Docking (UCSF Chimera, AutoDock Vina), Molecular Dynamic Simulation (GROMACS, Desmond), 
