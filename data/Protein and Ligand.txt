@@ -1,0 +1,41 @@
+
+
+1) Natural compounds selected as potential JAK inhibitors.
+CompoundCIDSMILESQuercetin5280343C1=CC(=C(C=C1C2=C(C(=O)C3=C(C
+=C(C=C3O2)O)O)O)O)OLiquiritigenin114829C1[C@H](OC2=C(C1=O)C=CC(=C2) O)C3=CC=C(C=C3)ONaringenin439246C1[C@H](OC2=CC(=CC(=C2C1=O)O
+)O)C3=CC=C(C=C3)ODiosmetin5281612COC1=C(C=C(C=C1)C2=CC(=O)C3= C(C=C(C=C3O2)O)O)OBaicalein5281605C1=CC=C(C=C1)C2=CC(=O)C3=C(O 2)C=C(C(=C3O)O)OPiperine638024C1CCN(CC1)C(=O)/C=C/C=C/C2=CC 3=C(C=C2)OCO3Pseudoephedrine7028C[C@@H]([C@H](C1=CC=CC=C1)O) NCAstaxanthin5281224CC1=C(C(C[C@@H](C1=O)O)(C)C)/ C=C/C(=C/C=C/C(=C/C=C/C=C(/C=C/ C=C(/C=C/C2=C(C(=O)[C@H](CC2(C
+)C)O)C)\C)\C)/C)/CIgalan
+14038398CC(=C)[C@H]1C[C@H]2[C@@H](C[ C@]1(C)C=C)OC(=O)C2=CElemol92138CC(=C)[C@@H]1C[C@@H](CC[C@
+@]1(C)C=C)C(C)(C)OTaxifolin 3-O-beta-D-glucopyranoside14187089C1=CC(=C(C=C1[C@@H]2[C@H](C(
+=O)C3=C(C=C(C=C3O2)O)O)O[C@H
+]4[C@@H]([C@H]([C@@H]([C@H]( O4)CO)O)O)O)O)OHecogenin91453C[C@@H]1CC[C@@]2([C@H]([C@
+H]3[C@@H](O2)C[C@@H]4[C@@]3
+(C(=O)C[C@H]5[C@H]4CC[C@@H]
+6[C@@]5(CC[C@@H](C6)O)C)C)C) OC1Verbascoside5281800C[C@H]1[C@@H]([C@H]([C@H]([C
+@@H](O1)O[C@@H]2[C@H]([C@@
+H](O[C@@H]([C@H]2OC(=O)/C=C/C 3=CC(=C(C=C3)O)O)CO)OCCC4=CC (=C(C=C4)O)O)O)O)O)OFerulic Acid445858COC1=C(C=CC(=C1)/C=C/C(=O)O)O
+
+CompoundMolecular weight (g/mol)H-bond acceptorH-bond donorRotatable bondsLog PTPSA (Å2)Log SBBA
+scoreQuercetin302.247511.63131.36-3.16NoLiquiritigenin256.254211.7366.76-3.28YesNaringenin272.255311.7586.99-3.49NoDiosmetin300.266322.47100.13-4.06NoBaicalein270.245312.4390.90-4.03NoPiperine285.343043.3838.77-3.74YesPseudoephedr ine165.232231.9332.26-1.62YesAstaxanthin596.844210-74.60--Igalan232.322022.7126.30-3.71YesElemol222.371133.2020.23-3.80YesTaxifolin 3-O-beta-D-glucopyranosi de466.3912840.5120.60-2.33NoHecogenin430.624104.1155.76-5.55YesVerbascoside624.59159112.15245.29-2.87NoFerulic Acid194.184231.6266.76-2.11
+Yes2) ADMET Profiling of Natural compounds using SWISS ADMET
+
+
+
+
+
+
+
+
+3) Compounds docked against JAK1 (4e5w) protein
+
+LigandLigand nameBinding AffRMSD/ULRMSD/LB4e5w_prepared_5281612_uff_E=324.34Diosmetin-9.4004e5w_prepared_439246_uff_E=195.81Naringenin-9.4004e5w_prepared_114829_uff_E=185.86Liquiritrengin-9.3004e5w_prepared_5281800_uff_E=559.11Verbacoside-9.1004e5w_prepared_5281605_uff_E=241.95Baicalein-900
+4) Compounds docked against JAK2 (3krr) protein.
+
+LigandLigand NameBinding AffRMSD/ULRMSD/LB3KRR_prepared_91453_uff_E=836.94Hecogenin-10003KRR_prepared_5281612_uff_E=324.34Diosmetin-9.4003KRR_prepared_5280343_uff_E=380.43Quercetin-9.100
+5) Compounds docked against JAK3 (5lwm) protein.
+
+LigandLigand NameBinding AffRMSD/ULRMSD/LB5lwm_prepared_5281224_uff_E=748.45Astaxanthin-10.1005lwm_prepared_91453_uff_E=836.94Hecogenin-10005lwm_prepared_5281800_uff_E=559.11Verbacoside-9.3005lwm_prepared_439246_uff_E=195.81Naringenin-8.800
+6) Final docked protein-ligand binding affinity.
+
+ProteinLigandBinding Affinity (kcal/mol)JAK1Diosmetin-9.4Naringenin-9.3JAK2Diosmetin-9.2Hecogenin-10.01JAK3Hecogenin-10.14Verbacoside-9.1
+
