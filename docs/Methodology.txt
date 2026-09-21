@@ -1,4 +1,10 @@
-                                          Methodology
-     
-
+Sequence alignment using NCBI FASTA and MEGA XI                                      Methodology
+Structural retrieval from RCBS PDB
+Selection of natural compounds from PubChem
+ADMET profiling of natural compounds using SWISS ADME
+Receptor and ligand preparation in UCSF Chimera
+Screening using PyRx
+Molecular docking using UCSF Chimera and Auto dock vina
+MD Simulation using GROMACS and Desmond software
+Post-docking and Simulation Analysis usinf BIOVIA Studios
 
