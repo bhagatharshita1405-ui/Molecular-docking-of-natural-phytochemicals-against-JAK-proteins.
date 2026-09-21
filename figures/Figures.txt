@@ -1,0 +1,22 @@
+PROTEIN3D PDB STRUCTURERAMACHANDRAN PLOTJAK1: 4E5W
+
+JAK2: 3KRR
+
+JAK3: 5LWM
+
+1) Protein structure validation
+
+2) PROSA web validation
+
+ReceptorZ-scoreZ-score DiagramModel QualityJAK1-8.35
+
+JAK2-8.09
+JAK3-8.21
+
+
+3) BIOVIA STUDIO 2D- Ligand Interaction
+
+ProteinLigand2D Ligand interactionJAK1DiosmetinNaringeninJAK2DiosmetinHecogeninJAK3HecogeninVerbacoside
+4) MD simulation data
+
+ProteinLigandRMSDRMSFJAK1DiosmetinNaringeninJAK2DiosmetinHecogeninJAK3HecogeninVerbacoside
